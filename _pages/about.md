@@ -5,20 +5,20 @@ permalink: /
 nav: true
 nav_rank: 1
 sitetitle: true
-description: Welcome to the project: Scientific Teams and Inequalities: Collaboration and Heterogeneity in Science (STITCH)
+description: Welcome to the Project.
 
 profile:
     name: 
     position: 
     align: right
     image: stitch-logo.jpg
-    href: '/members/salvaneschi'
-    email: uchass.ugr@gmail.com
+    href: 
+    email: 
     address: >
-        Faculty of Communication and Documentation<br />
-        Colegio Máximo de Cartuja<br />
-        Universidad de Granada<br />
-        
+        School of Computer Science<br />
+        Office 64-114<br />
+        Torstrasse 25<br />
+        9000 St. Gallen, Switzerland
 
 news: true # includes a list of news items
 projects: true # includes a tile list of projects
