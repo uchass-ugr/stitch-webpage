@@ -5,20 +5,20 @@ permalink: /
 nav: true
 nav_rank: 1
 sitetitle: true
-description: Welcome to the Programming Group at the University of St. Gallen. Team. Projects. Support.
+description: Welcome to the project: Scientific Teams and Inequalities: Collaboration and Heterogeneity in Science (STITCH)
 
 profile:
-    name: Prof. Dr. Guido Salvaneschi
-    position: Head of the Programming Group
+    name: 
+    position: 
     align: right
-    image: salvaneschi-profile.jpg
+    image: stitch-logo.jpg
     href: '/members/salvaneschi'
-    email: guido.salvaneschi@unisg.ch
+    email: uchass.ugr@gmail.com
     address: >
-        School of Computer Science<br />
-        Office 64-114<br />
-        Torstrasse 25<br />
-        9000 St. Gallen, Switzerland
+        Faculty of Communication and Documentation<br />
+        Colegio Máximo de Cartuja<br />
+        Universidad de Granada<br />
+        
 
 news: true # includes a list of news items
 projects: true # includes a tile list of projects
