@@ -46,8 +46,8 @@ og_image: /assets/img/og/pg.png # The site-wide (default for all links) Open Gra
 # -----------------------------------------------------------------------------
 
 github_username: # your GitHub user name
-twitter_username: prg_grp # your Twitter handle
-youtube_channel: UCW60aqeksbbWTT-7sR6G97w # your YouTube channel id
+twitter_username: # your Twitter handle
+youtube_channel:  # your YouTube channel id
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
