@@ -5,7 +5,7 @@ permalink: /
 nav: true
 nav_rank: 1
 sitetitle: true
-description: Welcome to the Project.
+description: Welcome!
 
 profile:
     name: 
@@ -26,7 +26,7 @@ selected_papers: True # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to the Programming Group!
+Welcome to the Scientific Teams and Inequalities: Collaboration and Heterogeneity in Science (STITCH)!
 We are part of the [Institute of Computer Science (ICS)](https://ics.unisg.ch/){: target="_blank"} at the [University of St. Gallen (HSG)](https://www.unisg.ch/){: target="_blank"}. 
 Together we enjoy working on **Programming Languages**
 and **Software Engineering**, including languages and architectures for
