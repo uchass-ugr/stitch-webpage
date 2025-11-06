@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 permalink: /teaching
 title: Teaching
 description: Offered courses, theses and student jobs at the University of St. Gallen.

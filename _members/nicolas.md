@@ -1,14 +1,14 @@
 ---
 layout: about
 inline: false
-group: Postdoctoral Researchers
-group_rank: 2
+group: Principal Investigator
+group_rank: 1
 team_frontpage: true
 
 title: Dr. Nicolas Robinson-García
 description: Profile of Dr. Nicolas Robinson-García, Ramón y Cajal Researcher at the University of Granada.
-lastname: Biagiola
-publications: 'author^=*Biagiola'
+lastname: Robinson-García
+publications: 'author^=*Robinson-García'
 
 teaser: >
   
@@ -27,5 +27,5 @@ profile:
         University of Granada
 ---
 
-Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics and research evaluation at the University of Granada. He is scientific director of the Unit for Computational Humanities and Social Sciences (U-CHASS) and head of the EC3 Research Group. He is co-editor of the journal Research Evaluation, and member of the Steering Committee of the European Summer School for Scientometrics. 
+Nicolas Robinson-Garcia is a Ramón y Cajal fellow in the field of bibliometrics and research evaluation at the University of Granada. He is scientific director of the Unit for Computational Humanities and Social Sciences [U-CHASS](https://uchass.ugr.es/es/) and head of the [EC3 Research Group](https://ec3-research.com/). He is co-editor of the journal Research Evaluation, and member of the Steering Committee of the European Summer School for Scientometrics. 
 His research interests are research careers and diversity, and science communication and social outreach. He is also member of the editorial board of Quantitative Science Studies.

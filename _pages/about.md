@@ -15,23 +15,16 @@ profile:
     href: 
     email: 
     address: >
-        School of Computer Science<br />
-        Office 64-114<br />
-        Torstrasse 25<br />
-        9000 St. Gallen, Switzerland
+        Faculty of Communication and<br /> Documentation<br />
+        University of Granada<br />
+        
 
 news: true # includes a list of news items
-projects: true # includes a tile list of projects
-supports: true # includes a tile list of supports
-selected_papers: false # includes a list of papers marked as "selected={true}"
+projects: false # includes a tile list of projects
+supports: false # includes a tile list of supports
+selected_papers: True # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-
-> <i class="fas fa-quote-left"></i>
-> “Where should I go?” –&nbsp;Alice. <br />
-> “That depends on where you want to end up.” –&nbsp;The&nbsp;Cheshire&nbsp;Cat.
-> <i class="fas fa-quote-right"></i><br />
-> —&nbsp;Lewis Carroll
 
 Welcome to the Programming Group!
 We are part of the [Institute of Computer Science (ICS)](https://ics.unisg.ch/){: target="_blank"} at the [University of St. Gallen (HSG)](https://www.unisg.ch/){: target="_blank"}. 

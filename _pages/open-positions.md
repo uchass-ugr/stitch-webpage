@@ -1,5 +1,6 @@
 ---
 layout: page
+published: false
 permalink: /open-positions
 title: Open Positions
 description: HiWi, PhD, and Postdoc job openings.
