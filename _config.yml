@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: STITCH # the website title (if blank, full name will be used instead)
+title: "Scientific Teams and Inequalities: Collaboration and Heterogeneity in Science (STITCH)" # the website title (if blank, full name will be used instead)
 first_name:
 middle_name:
 last_name: 
-email: uchass.ugr@gmail.com
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
 footer_text: >
@@ -61,7 +61,7 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  Send us an email and follow us on Twitter and YouTube.
+  Send us an email.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID

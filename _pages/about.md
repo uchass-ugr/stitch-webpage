@@ -5,7 +5,7 @@ permalink: /
 nav: true
 nav_rank: 1
 sitetitle: true
-description: Welcome to the Project.
+description: Welcome!
 
 profile:
     name: 
@@ -15,8 +15,7 @@ profile:
     href: 
     email: 
     address: >
-        Faculty of Communication and<br /> Documentation<br />
-        University of Granada<br />
+        
         
 
 news: true # includes a list of news items
@@ -30,7 +29,6 @@ The **STITCH Project (Scientific Teams and InequaliTies: Collaboration and Heter
 Using a unique dataset of **over 700,000 bibliographic records** with contribution statements (CRediT taxonomy) and **advanced machine learning techniques**, STITCH analyzes patterns of labor distribution within research teams, disciplinary differences, and inequalities related to gender, geography, and career stage.
 
 Ultimately, the project aims to generate **robust empirical evidence** to inform **fairer and more inclusive science policies and evaluation frameworks**. By recognizing the collaborative and diverse nature of modern science, STITCH contributes to the **development of research systems that are more equitable, transparent, and socially responsive**.
-
 
 
 {% assign members = site.members | where: "team_frontpage", true | sort: "lastname" %}
