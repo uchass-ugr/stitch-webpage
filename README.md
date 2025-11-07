@@ -1,6 +1,6 @@
 # STITCH
 
-This is the website of the STITCH Project. It is using Jekyll, hosted on GitHub, and was originally based on the [prg-grp/website](https://programming-group.com/) which is based on the( [al-folio theme](https://github.com/alshedivat/al-folio) and [folio theme](https://github.com/bogoli/-folio).
+This is the website of the STITCH Project. It is using Jekyll, hosted on GitHub, and was originally based on the [prg-grp/website](https://programming-group.com/) which is based on the [al-folio theme](https://github.com/alshedivat/al-folio) and [folio theme](https://github.com/bogoli/-folio).
 
 
 ## License
