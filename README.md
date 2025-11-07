@@ -1,22 +1,7 @@
-# programming-group.com
+# STITCH
 
-This is the website of the Programming Group at the University of St. Gallen. It is using Jekyll, hosted on GitHub, and was originally based on the [al-folio theme](https://github.com/alshedivat/al-folio), which is based on the [folio theme](https://github.com/bogoli/-folio).
+This is the website of the STITCH Project. It is using Jekyll, hosted on GitHub, and was originally based on the [prg-grp/website](https://programming-group.com/) which is based on the( [al-folio theme](https://github.com/alshedivat/al-folio) and [folio theme](https://github.com/bogoli/-folio).
 
-## Build Locally
-
-```
-npm install
-bundle install
-```
-
-## Run Locally
-
-The key command is:
-```
-bundle exec jekyll serve
-```
-
-Make sure you setup your system as instructed [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
 
 ## License
 
