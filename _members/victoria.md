@@ -11,7 +11,8 @@ lastname: Di Césare
 publications: 'author^=*Di Césare'
 
 teaser: >
-  
+  Ph.D. Candidate in Scientometrics and Social Studies of Science at University of Granada
+
 profile:
     name: Victoria Di Césare
     align: right

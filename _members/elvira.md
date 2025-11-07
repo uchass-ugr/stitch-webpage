@@ -11,6 +11,7 @@ lastname: González-Salmón
 publications: 'author^=*González-Salmón'
 
 teaser: >
+  Ph.D. Candidate in Scientometrics and Social Studies of Science at University of Granada
   
 profile:
     name: Elvira González-Salmón

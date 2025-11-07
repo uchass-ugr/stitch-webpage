@@ -25,21 +25,18 @@ supports: false # includes a tile list of supports
 selected_papers: True # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
+The **STITCH Project (Scientific Teams and InequaliTies: Collaboration and Heterogeneity in Science)** explores how the **internal organization of scientific teams** influences **knowledge production** and contributes to **inequalities** within the global research system. Through an **interdisciplinary approach** combining sociological theory, bibliometrics, and data science, the project seeks to understand the social and structural mechanisms that drive scientific collaboration, innovation, and impact.
 
-Welcome to the Programming Group!
-We are part of the [Institute of Computer Science (ICS)](https://ics.unisg.ch/){: target="_blank"} at the [University of St. Gallen (HSG)](https://www.unisg.ch/){: target="_blank"}. 
-Together we enjoy working on **Programming Languages**
-and **Software Engineering**, including languages and architectures for
-**Distributed Systems**, **Reactive Programming**, **DevOps Organizations**, and **Secure Software Systems**.
+Using a unique dataset of **over 700,000 bibliographic records** with contribution statements (CRediT taxonomy) and **advanced machine learning techniques**, STITCH analyzes patterns of labor distribution within research teams, disciplinary differences, and inequalities related to gender, geography, and career stage.
 
-[Talk to us](mailto:guido.salvaneschi@unisg.ch) or
-[join our group]({{ '/open-positions' | relative_url }})
-when you are interested in these topics or our work.
-Students at the University of St. Gallen,
-please find [our courses, theses, and jobs]({{ '/teaching' | relative_url }}).
-{: class="clearfix"}
+Ultimately, the project aims to generate **robust empirical evidence** to inform **fairer and more inclusive science policies and evaluation frameworks**. By recognizing the collaborative and diverse nature of modern science, STITCH contributes to the **development of research systems that are more equitable, transparent, and socially responsive**.
+
+
 
 {% assign members = site.members | where: "team_frontpage", true | sort: "lastname" %}
+<div class="text-center pt-5">
+  <h2>TEAM</h2>
+</div>
 <div class="d-flex flex-wrap align-content-stretch justify-content-center m-n2 pt-5 no-gutters">
     {% for member in members %}
         {% assign colsMod6 = forloop.length | modulo: 6 %}
