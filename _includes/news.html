@@ -1,23 +1,27 @@
 <div class="news">
-  {% if site.news  %}
+  {% if site.news %}
     <div class="table-responsive">
       <table class="table table-sm table-borderless">
-      {% assign news = site.news | reverse %}
-      {% for item in news limit: site.news_limit %}
-        <tr>
-          <th scope="row"  style="width: 100px">{{ item.date | date: "%b %Y" }}</th>
-          <td>
-            {% if item.inline %}
-              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-            {% else %}
-              <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-            {% endif %}
-          </td>
-        </tr>
-      {% endfor %}
+        {% assign news = site.news | sort: "date" | reverse %}
+        {% for item in news limit: site.news_limit %}
+          <tr>
+            <th scope="row" style="width: 100px">
+              {{ item.date | date: "%b %Y" }}
+            </th>
+            <td>
+              <a class="news-title" href="{{ item.url | relative_url }}">
+                {{ item.title }}
+              </a>
+              <div class="news-summary">
+                {{ item.summary | default: item.excerpt | strip_html | truncate: 180 | emojify }}
+                <a href="{{ item.url | relative_url }}">Leer más →</a>
+              </div>
+            </td>
+          </tr>
+        {% endfor %}
       </table>
     </div>
   {% else %}
-    <p>No news so far...</p>
+    <p>No news so far…</p>
   {% endif %}
 </div>
