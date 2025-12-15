@@ -12,3 +12,8 @@ $max-content-width: {{site.max_width}};
   "layout",
   "base"
 ;
+.news-title,
+.news a,
+.news td a {
+  text-transform: none !important;
+}

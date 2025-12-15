@@ -1,4 +1,5 @@
 ---
+title: "New webpage"
 layout: post
 date: 2025-11-06
 inline: true

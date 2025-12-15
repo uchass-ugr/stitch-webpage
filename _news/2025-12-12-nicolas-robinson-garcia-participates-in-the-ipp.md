@@ -1,4 +1,5 @@
 ---
+title: "Nicolás Robinson-García participates in the IPP"
 layout: post
 date: 2025-12-12
 Summary: "Nicolás Robinson-García analyzes the internal dynamics of research teams at the IPP-CSIC"
