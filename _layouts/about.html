@@ -10,6 +10,12 @@ layout: default
      {% if page.sitetitle %}{{ site.title }}{% else %}{{ page.title }}{% endif %}
     </h1>
       {% comment %}<p class="post-description">{{ page.description }}</p>{% endcomment %}
+        {% if page.url == "/" %}
+  <div class="home-top-logo text-center my-4">
+    <img src="{{ '/assets/img/sponsor.png' | relative_url }}"
+         alt="Logo"
+         style="max-height:120px;">
+  </div>
   </header>
 
   <article>
