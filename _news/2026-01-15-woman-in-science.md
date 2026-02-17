@@ -1,0 +1,24 @@
+---
+title: "Women in Spanish science: progress, but not equality"
+layout: post
+date: 2026-01-15
+Summary: "Comparative longitudinal study shows how assessment policies transform academic publication behavior"
+---
+A new study by Elvira González-Salmón and Nicolás Robinson-García analyses the evolution of gender parity in Spanish research over the last 30 years and compares it internationally. Using large-scale bibliometric data and a gender-assignment algorithm, the authors reconstruct how the scientific workforce has changed between 1990 and 2021. Their results show sustained growth in the number of women researchers, alongside persistent structural inequalities.
+
+The increase has not been homogeneous across disciplines. Fields such as Biomedicine, Life Sciences and Social Sciences have approached parity, whereas Mathematics, Computer Science, Physics and Engineering remain far from it. For example, women in Mathematics and Computer Science rose only from 17.3% to 22.7% during the period analysed, highlighting strong disciplinary barriers in research careers.
+
+In international comparison, Spain performs above the global average: around 37.8% of researchers in 2021 were women, compared with roughly 32% worldwide. However, the growth rate is similar to other developed countries, suggesting Spain’s favourable position comes mainly from an earlier starting advantage rather than faster recent change.
+
+<figure class="text-center my-4">
+    <img src="{{ '/assets/img/news/2_humanities.png' | relative_url }}" 
+     alt="Comparison of the percentage of women researchers in countries with a higher Human Development Index according to the United Nations, in the years 1990, 2000, 2010, and 2021."
+     class="img-fluid rounded my-3">
+    <figcaption class="text-muted" style="font-size:0.9rem;">
+    Comparison of the percentage of women researchers in countries with a higher Human Development Index according to the United Nations, in the years 1990, 2000, 2010, and 2021.
+     </figcaption>
+</figure>
+
+The authors caution against interpreting parity as full equality. Structural barriers, leadership gaps and disciplinary segregation persist even when numerical balance improves. The study therefore argues that gender parity alone is insufficient as an indicator of fairness and should be complemented with broader measures of opportunity and career conditions in science.
+
+**Reference**: González-Salmón, E., & Robinson-Garcia, N. . (2025). Mujeres científicas en España: un estudio comparativo de los últimos 30 años. Revista Española De Documentación Científica, 48(4), 1767. https://doi.org/10.3989/redc.2025.4.1767
