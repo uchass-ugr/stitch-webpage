@@ -11,7 +11,7 @@ The increase has not been homogeneous across disciplines. Fields such as Biomedi
 In international comparison, Spain performs above the global average: around 37.8% of researchers in 2021 were women, compared with roughly 32% worldwide. However, the growth rate is similar to other developed countries, suggesting Spain’s favourable position comes mainly from an earlier starting advantage rather than faster recent change.
 
 <figure class="text-center my-4">
-    <img src="{{ '/assets/img/news/2_humanities.png' | relative_url }}" 
+    <img src="{{ '/assets/img/news/3_women.png' | relative_url }}" 
      alt="Comparison of the percentage of women researchers in countries with a higher Human Development Index according to the United Nations, in the years 1990, 2000, 2010, and 2021."
      class="img-fluid rounded my-3">
     <figcaption class="text-muted" style="font-size:0.9rem;">
